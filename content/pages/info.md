@@ -80,7 +80,7 @@ sections:
       - type: Label
         label: Substance Painter
       - type: Label
-        label: Netlify
+        label: Substance Designer
       - type: Label
         label: Pancakes
       - type: Label
