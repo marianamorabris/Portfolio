@@ -107,7 +107,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: xx-small
+        borderRadius: none
         borderColor: border-primary
         borderWidth: 0
       title:
