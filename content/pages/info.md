@@ -127,7 +127,7 @@ sections:
         label: Sculpting
         url: ''
       - type: Label
-        label: Netlify
+        label: Character modeling
         url: ''
       - type: Label
         label: Pancakes
