@@ -18,7 +18,7 @@ media:
 bottomSections:
   - type: MediaGallerySection
     title: My work at the demo
-    subtitle: This is the subtitle
+    subtitle: I was given the job of creating the Npc
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
