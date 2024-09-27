@@ -207,10 +207,30 @@ sections:
       - type: FeaturedItem
         title: ESAT
         subtitle: HND in videogame art
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          Relevant Coursework: Advanced Character Modeling, Strong foundation in
+          anatomy, perspective, color theory, lighting and Digital Sculpting
+
+          Senior Project: Created a fully videogame demo featuring original 3D
+          character designs.
+
+
+          Accomplishments:
+
+
+          Succesfully designed and animated a character for the game "Katto
+          Rising Tides".
+
+
+          Acquired advanced askills in texturing, rigging, and character
+          animation, applying these techniques to create high-quality game
+          assets.
+
+
+          Worked on collaborative projects that included the pre-production,
+          production and post-production phases of graphic design and game
+          development.
+
         featuredImage:
           type: ImageBlock
           url: >-
