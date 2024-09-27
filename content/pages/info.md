@@ -162,7 +162,7 @@ sections:
         label: ''
         url: ''
       - type: Label
-        label: Digital illustration
+        label: Adaptability
         url: ''
       - type: Label
         label: Sculpting
