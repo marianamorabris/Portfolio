@@ -9,7 +9,7 @@ description: >-
   look!
 featuredImage:
   type: ImageBlock
-  url: /images/Robin_header.png
+  url: /images/favicon.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
