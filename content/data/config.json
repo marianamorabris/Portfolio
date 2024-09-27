@@ -82,7 +82,7 @@
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
         "styles": {
             "self": {
-                "width": "wide",
+                "width": "narrow",
                 "padding": [
                     "pt-16",
                     "pb-16",
