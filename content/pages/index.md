@@ -15,9 +15,9 @@ sections:
     backgroundSize: full
     title: My Portfolio
     subtitle: >-
-      Welcome to my Portfolio!My work focuses on creating compelling characters,
-      immersive environments, and detailed assets that elevate storytelling in
-      games and digital media.
+      Welcome to my Portfolio! My work focuses on creating compelling
+      characters, immersive environments, and detailed assets that elevate
+      storytelling in games and digital media.
     styles:
       self:
         height: auto
