@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Katto Rising Tides
 colors: colors-a
-date: '2024-07-20'
+date: '2024-06-20'
 client: ESAT project
 description: 'This was my senior project for ESAT, '
 featuredImage:
