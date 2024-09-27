@@ -74,7 +74,7 @@ sections:
       - type: Label
         label: Adobe Photoshop
       - type: Label
-        label: React
+        label: 3Ds Max
       - type: Label
         label: Microsoft Office
       - type: Label
