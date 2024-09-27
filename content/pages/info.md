@@ -135,9 +135,6 @@ sections:
       - type: Label
         label: 3D Animation
         url: ''
-      - type: Label
-        label: Swift
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
