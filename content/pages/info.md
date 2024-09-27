@@ -207,7 +207,7 @@ sections:
       - type: FeaturedItem
         title: ESAT
         subtitle: HND in videogame art
-        text: >+
+        text: >
           Relevant Coursework: Advanced Character Modeling, Strong foundation in
           anatomy, perspective, color theory, lighting and Digital Sculpting
 
@@ -222,7 +222,7 @@ sections:
           Rising Tides".
 
 
-          Acquired advanced askills in texturing, rigging, and character
+          Acquired advanced skills in texturing, rigging, and character
           animation, applying these techniques to create high-quality game
           assets.
 
@@ -230,19 +230,26 @@ sections:
           Worked on collaborative projects that included the pre-production,
           production and post-production phases of graphic design and game
           development.
-
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/ESAT.png
           altText: Item image
-          caption: Caption of the image
+          caption: ''
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: Katto Rising Tides
             altText: ''
-            url: /
+            url: 'https://store.steampowered.com/app/2999250/Katto_Rising_Tides/'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+          - type: Button
+            label: ESAT
+            altText: ''
+            url: 'https://www.esat.es'
             showIcon: true
             icon: arrowRight
             iconPosition: right
