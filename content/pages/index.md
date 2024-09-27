@@ -15,9 +15,11 @@ sections:
     backgroundSize: full
     title: My Portfolio
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Welcome to my personal place! My work focuses on creating compelling
+      characters, immersive environments, and detailed assets that elevate
+      storytelling in games and digital media. Here you will see some of my
+      works and pages were I keep my creations, from fully polished ones to
+      sketches and more.
     styles:
       self:
         height: auto
@@ -82,7 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: My works
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
