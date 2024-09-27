@@ -203,7 +203,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     title: Portfolio
-    subtitle: This is the subtitle
+    subtitle: ARTSTATION   mariana_mora
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
