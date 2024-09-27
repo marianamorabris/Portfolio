@@ -1,0 +1,27 @@
+{
+    "model": "Link",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "link",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "link"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Artstation",
+                "altText": "Artstation",
+                "url": "https://www.artstation.com/mariana_mora",
+                "showIcon": null,
+                "icon": null,
+                "iconPosition": null,
+                "elementId": null
+            },
+            "thumbnail": "images/link-link-764d.png"
+        }
+    ]
+}
