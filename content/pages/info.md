@@ -53,7 +53,7 @@ sections:
     type: HeroSection
     media:
       type: ImageBlock
-      url: /images/DIALOGUE_Katsha.png
+      url: /images/photo.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
