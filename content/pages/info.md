@@ -250,7 +250,7 @@ sections:
           - type: Button
             label: ESAT
             altText: ''
-            url: 'https://store.steampowered.com/app/2999250/Katto_Rising_Tides/'
+            url: 'https://www.esat.es'
             showIcon: true
             icon: arrowRight
             iconPosition: right
