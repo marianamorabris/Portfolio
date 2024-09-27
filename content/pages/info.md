@@ -13,15 +13,20 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+    text: >+
+      ## **Hi! My name is Mariana, and I’m an emerging artist passionate about
+      bringing creative projects to life.**
+
+
+      ### I specialize in concept art, 3D asset creation, and sculpting. with a
+      strong focus on delivering compelling visuals and storytelling through my
+      work. 
+
+
+      My goal is to contribute to innovative projects that push creative
+      boundaries while continuously developing my skills as part of a
+      collaborative team.
+
     styles:
       self:
         height: auto
@@ -46,150 +51,12 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 0
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    subtitle: 'You can find me here:'
+    media:
+      type: ImageBlock
+      url: /images/photo.png
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - type: DividerSection
     styles:
       self:
@@ -203,25 +70,125 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
+    title: KEY COMPETENCES
+    subtitle: Software Proficiency
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Adobe Photoshop
+        url: ''
       - type: Label
-        label: React
+        label: Zbrush
+        url: ''
       - type: Label
-        label: Microsoft Office
+        label: 3Ds Max
+        url: ''
       - type: Label
-        label: Next.js
+        label: Substance painter
+        url: ''
       - type: Label
-        label: Netlify
+        label: Substance Designer
+        url: ''
       - type: Label
-        label: Pancakes
+        label: Unreal
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-3
+          - pb-3
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderColor: border-primary
+        borderWidth: 0
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: LabelsSection
+    title: ''
+    subtitle: Technical Skills
+    items:
       - type: Label
-        label: C++
+        label: Concept art
+        url: ''
       - type: Label
-        label: Swift
+        label: ''
+        url: ''
+      - type: Label
+        label: Digital illustration
+        url: ''
+      - type: Label
+        label: Sculpting
+        url: ''
+      - type: Label
+        label: Character modeling
+        url: ''
+      - type: Label
+        label: Texturing
+        url: ''
+      - type: Label
+        label: 3D Animation
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-3
+          - pb-3
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: LabelsSection
+    title: ''
+    subtitle: Social Skills
+    items:
+      - type: Label
+        label: Feedback Reception
+        url: ''
+      - type: Label
+        label: ''
+        url: ''
+      - type: Label
+        label: Adaptability
+        url: ''
+      - type: Label
+        label: Team collaboration
+        url: ''
+      - type: Label
+        label: Communication
+        url: ''
+      - type: Label
+        label: Problem-solving
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-3
+          - pb-3
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - type: DividerSection
     styles:
       self:
@@ -234,6 +201,135 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: FeaturedItemsSection
+    title: EDUCATION
+    items:
+      - type: FeaturedItem
+        title: ESAT
+        subtitle: HND in videogame art
+        text: >+
+          Relevant Coursework: Advanced Character Modeling, Strong foundation in
+          anatomy, perspective, color theory, lighting and Digital Sculpting
+
+          Senior Project: Created a fully videogame demo featuring original 3D
+          character designs.
+
+
+          Accomplishments:
+
+
+          Succesfully designed and animated a character for the game "Katto
+          Rising Tides".
+
+
+          Acquired advanced askills in texturing, rigging, and character
+          animation, applying these techniques to create high-quality game
+          assets.
+
+
+          Worked on collaborative projects that included the pre-production,
+          production and post-production phases of graphic design and game
+          development.
+
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: I'm Smart
+        subtitle: ''
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: I'm Focused
+        subtitle: ''
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-16
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: TextSection
     variant: variant-a
     subtitle: 'Contact:'

@@ -5,15 +5,15 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Learn about me",
+        "title": "My works",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Email",
+                "label": "Resume",
                 "url": "/info",
                 "showIcon": true,
-                "icon": "mail"
+                "icon": ""
             },
             {
                 "type": "Link",
