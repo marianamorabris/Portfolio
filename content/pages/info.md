@@ -171,7 +171,7 @@ sections:
         label: Communication
         url: ''
       - type: Label
-        label: Texturing
+        label: Problem-solving
         url: ''
       - type: Label
         label: 3D Animation
