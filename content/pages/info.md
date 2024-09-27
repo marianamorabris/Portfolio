@@ -118,7 +118,7 @@ sections:
         label: Concept art
         url: ''
       - type: Label
-        label: React
+        label: Good understanding of the basics
         url: ''
       - type: Label
         label: Microsoft Office
