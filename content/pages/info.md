@@ -121,7 +121,7 @@ sections:
         label: ''
         url: ''
       - type: Label
-        label: anatomy
+        label: Digital illustration
         url: ''
       - type: Label
         label: Next.js
