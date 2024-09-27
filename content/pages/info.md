@@ -168,7 +168,7 @@ sections:
         label: Team collaboration
         url: ''
       - type: Label
-        label: Character modeling
+        label: Communication
         url: ''
       - type: Label
         label: Texturing
