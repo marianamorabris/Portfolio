@@ -4,7 +4,9 @@ title: Katto Rising Tides
 colors: colors-a
 date: '2024-06-01'
 client: ESAT project
-description: 'This was my senior project for ESAT, were I worked alongside my team'
+description: >-
+  This was my senior project for ESAT, were I worked alongside my teammates to
+  make a videogame demo.
 featuredImage:
   type: ImageBlock
   url: /images/Robin_header.png
