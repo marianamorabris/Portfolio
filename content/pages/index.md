@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     title: HEllo!
     subtitle: >-
-      Welcome to my Portfolio! My work focuses on creating compelling
+      Welcome to my personal place! My work focuses on creating compelling
       characters, immersive environments, and detailed assets that elevate
       storytelling in games and digital media. Here you will see some of my
       works and pages were I keep my creations, from fully polished ones to
