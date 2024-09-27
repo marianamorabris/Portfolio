@@ -72,7 +72,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "+34 601 23 77 50",
             "phoneAltText": "+34 601 23 77 50",
             "email": "marianamorabris@gmail.com",
             "emailAltText": "My email",
