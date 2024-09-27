@@ -206,7 +206,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ESAT
-        subtitle: HND in videogame art
+        subtitle: HND in videogame art   |   Oct 2021 - July 2024
         text: >
           Relevant Coursework: Advanced Character Modeling, Strong foundation in
           anatomy, perspective, color theory, lighting and Digital Sculpting
