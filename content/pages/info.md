@@ -121,7 +121,7 @@ sections:
         label: ''
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: anatomy
         url: ''
       - type: Label
         label: Next.js
