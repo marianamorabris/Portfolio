@@ -248,7 +248,7 @@ sections:
             style: primary
             elementId: ''
           - type: Button
-            label: Katto Rising Tides
+            label: ESAT
             altText: ''
             url: 'https://store.steampowered.com/app/2999250/Katto_Rising_Tides/'
             showIcon: true
