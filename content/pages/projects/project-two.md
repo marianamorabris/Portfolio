@@ -66,7 +66,6 @@ bottomSections:
 
 > Development and Artistic Work
 
-The game was developed as a final project, showcasing the team's talents across multiple disciplines, including concept art, 3D modeling, environmental design, and programming. The focus on atmospheric world-building is a standout feature, with particular attention given to the game's detailed landscapes and environmental storytelling.
-
+The game was developed as a final project, showcasing the team's talents across multiple disciplines, including concept art, 3D modeling, environmental design, and level scenery building. The focus on atmospheric world-building is a standout feature, with particular attention given to the game's detailed landscapes and environmental storytelling.
 
 The work done on Katto: Rising Tides reflects a strong collaboration between artists, programmers and designers, where each member contributed to building an experience that balances aesthetic beauty with gameplay depth.
