@@ -91,9 +91,6 @@ sections:
       - type: Label
         label: Unreal
         url: ''
-      - type: Label
-        label: C++
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
