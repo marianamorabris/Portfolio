@@ -86,7 +86,7 @@ sections:
         label: Substance painter
         url: ''
       - type: Label
-        label: Netlify
+        label: Substance Designer
         url: ''
       - type: Label
         label: Pancakes
