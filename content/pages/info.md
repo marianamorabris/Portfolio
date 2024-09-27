@@ -202,7 +202,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: MediaGallerySection
-    title: Gallery
+    title: Portfolio
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
