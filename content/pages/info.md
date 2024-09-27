@@ -232,8 +232,7 @@ sections:
           development.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/imagen_2024-09-27_201026336.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
