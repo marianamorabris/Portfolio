@@ -83,7 +83,7 @@ sections:
         label: 3Ds Max
         url: ''
       - type: Label
-        label: Next.js
+        label: Substance painter
         url: ''
       - type: Label
         label: Netlify
