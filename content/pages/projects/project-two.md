@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Artstation works
+title: Katto Rising Tides
 colors: colors-a
 date: '2021-12-20'
 client: ESAT project
