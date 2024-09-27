@@ -262,10 +262,14 @@ sections:
       - type: FeaturedItem
         title: IES BENLLIURE
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          Learned the principles of traditional art;
+
+          Traditional drawing and principles of artistic human anatomy.
+
+          Sculpting in clay, wood and plaster.
+
+          History of art
         actions:
           - type: Button
             label: ''
