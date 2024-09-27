@@ -27,10 +27,6 @@ sections:
       boundaries while continuously developing my skills as part of a
       collaborative team.
 
-    media:
-      type: ImageBlock
-      url: /images/Screenshot 2024-09-03 133147.png
-      altText: Hero image
     styles:
       self:
         height: auto
