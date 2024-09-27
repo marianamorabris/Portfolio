@@ -80,7 +80,7 @@ sections:
         label: Zbrush
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: 3Ds Max
         url: ''
       - type: Label
         label: Next.js
