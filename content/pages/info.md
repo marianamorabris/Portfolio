@@ -74,7 +74,7 @@ sections:
     subtitle: Software Proficiency
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Adobe Photoshop
         url: ''
       - type: Label
         label: React
