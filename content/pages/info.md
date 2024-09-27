@@ -118,7 +118,7 @@ sections:
         textAlign: center
   - type: LabelsSection
     title: ''
-    subtitle: The section subtitle
+    subtitle: Technical Skills
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
