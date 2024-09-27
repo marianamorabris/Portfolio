@@ -87,6 +87,7 @@ sections:
         label: C++
       - type: Label
         label: Swift
+    title: KEY COMPETENCES
   - type: DividerSection
     styles:
       self:
