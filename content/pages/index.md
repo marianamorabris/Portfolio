@@ -4,7 +4,7 @@ title: My portfolio
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/background.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
