@@ -18,7 +18,7 @@ media:
 bottomSections:
   - type: MediaGallerySection
     title: My work at the demo
-    subtitle: I was given the job of creating the Npc of the game; Robin
+    subtitle: This was some of the things I made for the videogame demo
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
