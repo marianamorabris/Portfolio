@@ -153,7 +153,7 @@ sections:
         textAlign: center
   - type: LabelsSection
     title: ''
-    subtitle: Technical Skills
+    subtitle: Social Skills
     items:
       - type: Label
         label: Concept art
