@@ -261,7 +261,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: IES BENLLIURE
-        subtitle: Ar Baccalaureate
+        subtitle: Art Baccalaureate
         text: |
           Learned the principles of traditional art;
 
