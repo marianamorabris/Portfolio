@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/favicon.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -79,7 +79,7 @@
             "address": "Valencia, Spain",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "Powered by [Cool people](https://www.netlify.com/platform/)\n",
         "styles": {
             "self": {
                 "width": "narrow",
