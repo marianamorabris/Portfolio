@@ -234,7 +234,7 @@ sections:
           type: ImageBlock
           url: /images/ESAT.png
           altText: Item image
-          caption: Katto Rising Tides art
+          caption: ''
           elementId: ''
         actions:
           - type: Button
