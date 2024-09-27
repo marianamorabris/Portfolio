@@ -156,7 +156,7 @@ sections:
     subtitle: Social Skills
     items:
       - type: Label
-        label: Concept art
+        label: Feedback Reception
         url: ''
       - type: Label
         label: ''
