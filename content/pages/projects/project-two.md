@@ -4,9 +4,7 @@ title: Katto Rising Tides
 colors: colors-a
 date: '2021-12-20'
 client: ESAT project
-description: >-
-  Here are some of my most polished creations, I'm really proud of them, take a
-  look!
+description: 'This was my senior project for ESAT, '
 featuredImage:
   type: ImageBlock
   url: /images/Robin_header.png
