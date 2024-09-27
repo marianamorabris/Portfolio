@@ -69,7 +69,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: 'Software Proficiency:'
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
