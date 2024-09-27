@@ -76,7 +76,7 @@ sections:
       - type: Label
         label: 3Ds Max
       - type: Label
-        label: Microsoft Office
+        label: Zbrush
       - type: Label
         label: Next.js
       - type: Label
