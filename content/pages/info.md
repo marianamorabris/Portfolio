@@ -241,7 +241,7 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: 'https://store.steampowered.com/app/2999250/Katto_Rising_Tides/'
             showIcon: true
             icon: arrowRight
             iconPosition: right
