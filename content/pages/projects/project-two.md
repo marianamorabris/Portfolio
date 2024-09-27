@@ -21,7 +21,7 @@ bottomSections:
     subtitle: This was some of the things I made for the videogame demo
     images:
       - type: ImageBlock
-        url: /images/Concept_Robin_Post.png
+        url: /images/001.png
         altText: Image one
         caption: Image one caption
         elementId: ''
