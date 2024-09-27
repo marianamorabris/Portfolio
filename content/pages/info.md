@@ -261,7 +261,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: IES BENLLIURE
-        subtitle: Art Baccalaureate
+        subtitle: Art Baccalaureate   |   Sept 2019 - July 2021
         text: |
           Learned the principles of traditional art;
 
