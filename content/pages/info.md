@@ -206,7 +206,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ESAT
-        subtitle: ''
+        subtitle: HND in videogame art
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
