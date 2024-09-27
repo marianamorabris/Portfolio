@@ -88,6 +88,9 @@ sections:
       - type: Label
         label: Swift
     title: KEY COMPETENCES
+    styles:
+      self:
+        width: narrow
   - type: DividerSection
     styles:
       self:
