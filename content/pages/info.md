@@ -173,9 +173,6 @@ sections:
       - type: Label
         label: Problem-solving
         url: ''
-      - type: Label
-        label: 3D Animation
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
