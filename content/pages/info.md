@@ -90,7 +90,7 @@ sections:
     title: KEY COMPETENCES
     styles:
       self:
-        width: narrow
+        width: full
   - type: DividerSection
     styles:
       self:
