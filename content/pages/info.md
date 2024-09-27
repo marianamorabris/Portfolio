@@ -18,7 +18,7 @@ sections:
       bringing creative projects to life.**
 
 
-      # I specialize in concept art, 3D asset creation, and sculpting. with a
+      ### I specialize in concept art, 3D asset creation, and sculpting. with a
       strong focus on delivering compelling visuals and storytelling through my
       work. My goal is to contribute to innovative projects that push creative
       boundaries while continuously developing my skills as part of a
