@@ -207,7 +207,7 @@ sections:
       - type: FeaturedItem
         title: ESAT
         subtitle: HND in videogame art
-        text: >+
+        text: >
           Relevant Coursework: Advanced Character Modeling, Strong foundation in
           anatomy, perspective, color theory, lighting and Digital Sculpting
 
@@ -222,7 +222,7 @@ sections:
           Rising Tides".
 
 
-          Acquired advanced askills in texturing, rigging, and character
+          Acquired advanced skills in texturing, rigging, and character
           animation, applying these techniques to create high-quality game
           assets.
 
@@ -230,7 +230,6 @@ sections:
           Worked on collaborative projects that included the pre-production,
           production and post-production phases of graphic design and game
           development.
-
         featuredImage:
           type: ImageBlock
           url: >-
