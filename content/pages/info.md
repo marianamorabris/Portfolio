@@ -115,7 +115,7 @@ sections:
     subtitle: Technical Skills
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Concept art
         url: ''
       - type: Label
         label: React
