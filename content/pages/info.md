@@ -78,7 +78,7 @@ sections:
       - type: Label
         label: Zbrush
       - type: Label
-        label: Next.js
+        label: Substance Painter
       - type: Label
         label: Netlify
       - type: Label
