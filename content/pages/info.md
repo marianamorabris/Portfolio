@@ -306,7 +306,7 @@ sections:
 
       Valenciano (Native)
 
-      English (C1 Cambridge certified)
+      English (C1 Cambridge advanced)
     elementId: ''
     styles:
       self:
