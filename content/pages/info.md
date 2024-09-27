@@ -4,7 +4,7 @@ title: Resume
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/background.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
