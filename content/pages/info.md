@@ -232,7 +232,7 @@ sections:
           development.
         featuredImage:
           type: ImageBlock
-          url: /images/imagen_2024-09-27_201026336.png
+          url: /images/ESAT.png
           altText: Item image
           caption: Katto Rising Tides art
           elementId: ''
