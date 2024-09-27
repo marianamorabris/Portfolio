@@ -68,27 +68,6 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Software Proficiency:'
-    items:
-      - type: Label
-        label: Adobe Photoshop
-      - type: Label
-        label: 3Ds Max
-      - type: Label
-        label: Zbrush
-      - type: Label
-        label: Substance Painter
-      - type: Label
-        label: Substance Designer
-      - type: Label
-        label: Swift
-    title: KEY COMPETENCES
-    styles:
-      self:
-        width: wide
-        justifyContent: center
-  - type: LabelsSection
     title: Skills
     subtitle: The section subtitle
     items:
