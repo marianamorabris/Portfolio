@@ -68,7 +68,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: LabelsSection
-    title: Skills
+    title: KEY COMPETENCES
     subtitle: The section subtitle
     items:
       - type: Label
