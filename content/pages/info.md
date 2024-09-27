@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: Resume
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
