@@ -10,7 +10,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Email",
+                "label": "Resume",
                 "url": "/info",
                 "showIcon": true,
                 "icon": "mail"
