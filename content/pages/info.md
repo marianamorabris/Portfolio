@@ -130,7 +130,7 @@ sections:
         label: Character modeling
         url: ''
       - type: Label
-        label: Pancakes
+        label: Texturing
         url: ''
       - type: Label
         label: C++
