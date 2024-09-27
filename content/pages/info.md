@@ -82,8 +82,6 @@ sections:
       - type: Label
         label: Substance Designer
       - type: Label
-        label: C++
-      - type: Label
         label: Swift
     title: KEY COMPETENCES
     styles:
