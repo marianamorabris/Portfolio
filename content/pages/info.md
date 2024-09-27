@@ -69,7 +69,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     title: KEY COMPETENCES
-    subtitle: The section subtitle
+    subtitle: Software Proficiency
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
