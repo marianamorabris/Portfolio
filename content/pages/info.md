@@ -77,7 +77,7 @@ sections:
         label: Adobe Photoshop
         url: ''
       - type: Label
-        label: React
+        label: Zbrush
         url: ''
       - type: Label
         label: Microsoft Office
