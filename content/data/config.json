@@ -79,7 +79,7 @@
             "address": "Valencia, Spain",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Very cool people](https://www.netlify.com/platform/)\n\n",
+        "copyrightText": "Powered by [Cool people](https://www.netlify.com/platform/)\n",
         "styles": {
             "self": {
                 "width": "narrow",
