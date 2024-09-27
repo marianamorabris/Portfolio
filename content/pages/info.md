@@ -133,7 +133,7 @@ sections:
         label: Texturing
         url: ''
       - type: Label
-        label: C++
+        label: 3D Animation
         url: ''
       - type: Label
         label: Swift
