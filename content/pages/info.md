@@ -13,11 +13,22 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      **Hi! My name is Mariana, and I’m an emerging artist passionate about
+      bringing creative projects to life.**
+
+      I specialize in concept art, 3D asset creation, and sculpting. with a
+      strong focus on delivering compelling visuals and storytelling through my
+      work. My goal is to contribute to innovative projects that push creative
+      boundaries while continuously developing my skills as part of a
+      collaborative team.
+
+      ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
     media:
       type: ImageBlock
       url: /images/Screenshot 2024-09-03 133147.png
