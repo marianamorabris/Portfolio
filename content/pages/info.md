@@ -165,7 +165,7 @@ sections:
         label: Adaptability
         url: ''
       - type: Label
-        label: Sculpting
+        label: Team collaboration
         url: ''
       - type: Label
         label: Character modeling
