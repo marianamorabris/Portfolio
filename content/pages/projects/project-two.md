@@ -17,7 +17,7 @@ media:
   altText: Project image
 bottomSections:
   - type: MediaGallerySection
-    title: Gallery
+    title: My work at the demo
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
