@@ -124,7 +124,7 @@ sections:
         label: Digital illustration
         url: ''
       - type: Label
-        label: Next.js
+        label: Sculpting
         url: ''
       - type: Label
         label: Netlify
