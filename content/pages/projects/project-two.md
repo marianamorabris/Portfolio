@@ -18,7 +18,7 @@ media:
 bottomSections:
   - type: MediaGallerySection
     title: My work at the demo
-    subtitle: I was given the job of creating the Npc
+    subtitle: I was given the job of creating the Npc of the game; Robin
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
