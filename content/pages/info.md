@@ -234,7 +234,7 @@ sections:
           type: ImageBlock
           url: /images/imagen_2024-09-27_201026336.png
           altText: Item image
-          caption: Caption of the image
+          caption: Katto Rising Tides art
           elementId: ''
         actions:
           - type: Button
