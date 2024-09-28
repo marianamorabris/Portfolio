@@ -23,7 +23,7 @@ bottomSections:
       character creation
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/unnamed (1).png
         altText: Image one
         caption: Image one caption
         elementId: ''
