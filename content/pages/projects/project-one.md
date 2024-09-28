@@ -75,7 +75,7 @@ bottomSections:
         textAlign: center
   - type: MediaGallerySection
     title: 3D MODELING
-    subtitle: This is the subtitle
+    subtitle: Here are some models of props and creatures I did for the subject
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
