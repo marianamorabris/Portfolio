@@ -28,7 +28,7 @@ bottomSections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/Villain_expressions (1).png
         altText: Image two
         caption: Image two caption
         elementId: ''
