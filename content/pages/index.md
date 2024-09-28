@@ -124,6 +124,7 @@ sections:
     actions: []
     posts:
       - content/pages/blog/post-five.md
+      - content/pages/blog/blog_entry_01.md
     colors: colors-f
     variant: variant-c
     elementId: ''
