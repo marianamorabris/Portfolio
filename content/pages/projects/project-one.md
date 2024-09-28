@@ -119,7 +119,7 @@ bottomSections:
       subtitle:
         textAlign: center
   - type: MediaGallerySection
-    title: Gallery
+    title: Sculpting
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
