@@ -5,13 +5,13 @@ date: '2024-09-28'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/ocean_queen_01.png
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/ocean_queen.png
   altText: Post image
   caption: Caption of the image
   elementId: ''
@@ -19,7 +19,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/background.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -28,14 +28,13 @@ bottomSections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    title: THE SEA QUEEN
+    text: >
+      This was a little project I made In few days, It all started with a quick
+      sketch in photoshop of a simple design, a sea-like humanoid creature that
+      inspired me to do a little warm up in zbrush to mantain my familiarity
+      with the program. This helped me discover new materials and techniques to
+      use in Zbrush.
     elementId: ''
     styles:
       self:
