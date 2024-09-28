@@ -5,7 +5,7 @@ date: '2024-09-28'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/ocean_queen.png
+  url: /images/ocean_queen_01.png
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
