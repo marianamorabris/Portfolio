@@ -27,7 +27,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Projects",
                 "altText": "",
                 "url": "/projects",
                 "showIcon": false,
