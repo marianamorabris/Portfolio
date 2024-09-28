@@ -7,7 +7,7 @@ client: Awesome client
 description: I'm currently working on a personal project! It is a work in process still.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/dfqaf.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
