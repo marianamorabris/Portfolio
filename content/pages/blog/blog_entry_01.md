@@ -54,7 +54,7 @@ bottomSections:
         textAlign: left
   - type: MediaGallerySection
     title: Early Process
-    subtitle: Featuring; sketch and blockouts
+    subtitle: Featuring; sketch and finished anatomic build
     images:
       - type: ImageBlock
         url: /images/13431.png
