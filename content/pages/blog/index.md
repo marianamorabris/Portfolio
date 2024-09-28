@@ -4,7 +4,7 @@ title: Blog
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/background.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -29,4 +29,30 @@ postFeed:
 styles:
   title:
     textAlign: left
+topSections:
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: NO BLOG ENTRIES YET!
+    subtitle: This is a brand new addition so there isn't really much yet
+    text: |+
+      Come again soon!
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
 ---
