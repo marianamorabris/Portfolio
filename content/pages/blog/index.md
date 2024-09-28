@@ -26,6 +26,10 @@ postFeed:
         - pl-4
         - pr-4
         - pb-12
+  title: ''
+  subtitle: >-
+    This is were I post small projects, artworks and much more, feel free to see
+    them!
 styles:
   title:
     textAlign: left
