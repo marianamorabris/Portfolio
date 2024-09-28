@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: The Sea Queen Zbrush warmup
+title: The Sea Queen | Zbrush warmup
 date: '2024-09-28'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
