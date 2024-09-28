@@ -126,7 +126,7 @@ sections:
       - type: Link
         label: See all posts
         altText: See all posts
-        url: /blog
+        url: /Works
         showIcon: false
         icon: arrowRight
         iconPosition: right
