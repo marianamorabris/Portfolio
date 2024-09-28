@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >
-      ## **My name is Mariana**
+      ## **HI! I'm Mariana Mora**
 
 
       ### I specialize in concept art, 3D asset creation, and sculpting. with a
