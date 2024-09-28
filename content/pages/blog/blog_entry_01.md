@@ -29,13 +29,12 @@ bottomSections:
     colors: colors-f
     variant: variant-a
     title: THE SEA QUEEN
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      This was a little project I made In few days, It all started with a quick
+      sketch in photoshop of a simple design, a sea-like humanoid creature that
+      inspired me to do a little warm up in zbrush to mantain my familiarity
+      with the program. This helped me discover new materials and techniques to
+      use in the program.
     elementId: ''
     styles:
       self:
