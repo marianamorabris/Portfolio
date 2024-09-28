@@ -57,7 +57,7 @@ bottomSections:
     subtitle: Featuring; sketch and blockouts
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/13431.png
         altText: Image one
         caption: Image one caption
         elementId: ''
