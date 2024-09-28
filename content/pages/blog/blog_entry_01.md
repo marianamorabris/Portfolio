@@ -34,7 +34,7 @@ bottomSections:
       sketch in photoshop of a simple design, a sea-like humanoid creature that
       inspired me to do a little warm up in zbrush to mantain my familiarity
       with the program. This helped me discover new materials and techniques to
-      use in the program.
+      use in the Zbrush.
     elementId: ''
     styles:
       self:
