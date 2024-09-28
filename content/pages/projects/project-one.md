@@ -3,7 +3,7 @@ type: ProjectLayout
 title: ESAT coursework
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: ''
 description: >-
   A small compilation of the different projects and work I've done in my 3 years
   at ESAT.
