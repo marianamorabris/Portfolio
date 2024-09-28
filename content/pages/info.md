@@ -13,20 +13,18 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      ## **Hi! My name is Mariana, and I’m an emerging artist passionate about
-      bringing creative projects to life.**
+    text: >
+      ## **HI! I'm Mariana Mora**
 
 
       ### I specialize in concept art, 3D asset creation, and sculpting. with a
       strong focus on delivering compelling visuals and storytelling through my
-      work. 
+      work.
 
 
       My goal is to contribute to innovative projects that push creative
       boundaries while continuously developing my skills as part of a
       collaborative team.
-
     styles:
       self:
         height: auto
