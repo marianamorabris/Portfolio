@@ -18,7 +18,7 @@ media:
 bottomSections:
   - type: MediaGallerySection
     title: My work at the demo
-    subtitle: This was some of the things I made for the videogame demo
+    subtitle: Here are some of the things I made for the videogame demo
     images:
       - type: ImageBlock
         url: /images/001.png
