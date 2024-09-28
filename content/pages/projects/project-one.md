@@ -120,7 +120,7 @@ bottomSections:
         textAlign: center
   - type: MediaGallerySection
     title: Sculpting
-    subtitle: This is the subtitle
+    subtitle: 'Here are some models I did, these were heavily focused on human anatomy'
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
