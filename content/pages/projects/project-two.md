@@ -31,12 +31,12 @@ bottomSections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/003.png
         altText: Image three
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/004.png
         altText: Image four
         caption: Image four caption
         elementId: ''

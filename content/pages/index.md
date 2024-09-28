@@ -47,6 +47,41 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+  - type: CtaSection
+    title: My CV
+    text: |
+      Take a look at my personal resume here!
+    actions:
+      - type: Button
+        label: My CV
+        altText: ''
+        url: /info
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-10
+          - pb-8
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -61,8 +96,6 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
