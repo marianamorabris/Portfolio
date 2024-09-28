@@ -74,7 +74,7 @@ bottomSections:
       subtitle:
         textAlign: center
   - type: MediaGallerySection
-    title: Gallery
+    title: 3D MODELING
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
