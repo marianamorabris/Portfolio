@@ -78,7 +78,7 @@ bottomSections:
     subtitle: Here are some models of props and creatures I did for the subject
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/camera.png
         altText: Image one
         caption: Image one caption
         elementId: ''
