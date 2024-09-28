@@ -27,9 +27,7 @@ postFeed:
         - pr-4
         - pb-12
   title: ''
-  subtitle: >-
-    This is were I post small pieces of work, feel free to see what I like to do
-    most.
+  subtitle: 'This is were I post small projects, feel free to see them!'
 styles:
   title:
     textAlign: left
