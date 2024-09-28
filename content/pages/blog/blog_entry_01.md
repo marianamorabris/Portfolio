@@ -54,7 +54,7 @@ bottomSections:
         textAlign: left
   - type: MediaGallerySection
     title: Early Process
-    subtitle: This is the subtitle
+    subtitle: Featuring; sketch and blockouts
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
