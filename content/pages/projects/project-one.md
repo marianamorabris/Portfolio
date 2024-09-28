@@ -18,7 +18,9 @@ media:
 bottomSections:
   - type: MediaGallerySection
     title: Concept Art
-    subtitle: This is the subtitle
+    subtitle: >-
+      This is some of the work I did for the subject of concept art and
+      character creation
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
