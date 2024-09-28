@@ -34,7 +34,7 @@ topSections:
     colors: colors-f
     variant: variant-a
     title: NO BLOG ENTRIES YET!
-    subtitle: The section subtitle
+    subtitle: This is a brand new addition so there isn't really much yet
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
