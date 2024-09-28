@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Future Project
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: 'Wow, so excited!'
 description: I'm currently working on a personal project! It is a work in process still.
 featuredImage:
   type: ImageBlock
