@@ -96,6 +96,7 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-two.md
+      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
