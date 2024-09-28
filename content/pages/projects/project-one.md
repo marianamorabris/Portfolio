@@ -5,8 +5,8 @@ colors: colors-a
 date: '2021-10-15'
 client: ''
 description: >-
-  A small compilation of the different projects and work I've done in my 3 years
-  at ESAT.
+  A small compilation of the different projects and work I've done in my second
+  year at ESAT
 featuredImage:
   type: ImageBlock
   url: /images/main photo.png
