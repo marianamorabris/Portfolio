@@ -17,16 +17,16 @@ media:
   altText: Project image
 bottomSections:
   - type: MediaGallerySection
-    title: Gallery
-    subtitle: This is the subtitle
+    title: My work at the demo
+    subtitle: This was some of the things I made for the videogame demo
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/001.png
         altText: Image one
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/002.png
         altText: Image two
         caption: Image two caption
         elementId: ''
@@ -61,6 +61,7 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
+socialImage: /images/Concept_header.png
 ---
 **Katto: Rising Tides** is a first-person adventure game developed by a team of students from ESAT (Escuela Superior de Arte y Tecnología). Set in a beautifully crafted fantasy world, the game invites players to explore an expansive, immersive environment while exploring a greco-roman fantasy ambience. As the protagonist, players navigate through different areas, combining exploration with light platforming mechanics.
 
