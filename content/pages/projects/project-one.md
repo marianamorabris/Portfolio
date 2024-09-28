@@ -123,7 +123,7 @@ bottomSections:
     subtitle: 'Here are some models I did, these were heavily focused on human anatomy'
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/posemodel.png
         altText: Image one
         caption: Image one caption
         elementId: ''
