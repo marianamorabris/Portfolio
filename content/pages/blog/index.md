@@ -27,6 +27,9 @@ postFeed:
         - pr-4
         - pb-12
   title: ''
+  subtitle: >-
+    This is were I post small pieces of work, feel free to see what I like to do
+    most.
 styles:
   title:
     textAlign: left
