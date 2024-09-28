@@ -53,7 +53,7 @@ bottomSections:
       text:
         textAlign: left
   - type: MediaGallerySection
-    title: Gallery
+    title: Early Process
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
