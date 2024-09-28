@@ -49,9 +49,8 @@ sections:
     actions: []
   - type: CtaSection
     title: My CV
-    text: |+
-      Take a look at my personal Resume here!
-
+    text: |
+      Take a look at my personal resume here!
     actions:
       - type: Button
         label: My CV
