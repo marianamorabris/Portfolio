@@ -38,7 +38,7 @@ bottomSections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/P_CART_F2_morabri.png
         altText: Image four
         caption: Image four caption
         elementId: ''
