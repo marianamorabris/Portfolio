@@ -49,9 +49,9 @@ sections:
     actions: []
   - type: CtaSection
     title: My CV
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |+
+      Take a look at my personal Resume here!
+
     actions:
       - type: Button
         label: Try it now
