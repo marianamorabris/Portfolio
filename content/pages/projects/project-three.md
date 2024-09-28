@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Future Project
 colors: colors-a
-date: '2022-01-22'
+date: '2024-09-28'
 client: 'Wow, so excited!'
 description: I'm currently working on a personal project! It is a work in process still.
 featuredImage:
