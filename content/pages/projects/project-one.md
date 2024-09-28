@@ -33,7 +33,7 @@ bottomSections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/SFDFS.png
+        url: /images/FROG_PROCESS.png
         altText: Image three
         caption: Image three caption
         elementId: ''
