@@ -4,7 +4,7 @@ title: ESAT coursework
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: A compilation of the work I've done in my 3 years at ESAT
+description: A small compilation of the work I've done in my 3 years at ESAT
 featuredImage:
   type: ImageBlock
   url: /images/main photo.png
