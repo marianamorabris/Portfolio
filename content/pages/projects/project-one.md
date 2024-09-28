@@ -19,7 +19,7 @@ bottomSections:
   - type: MediaGallerySection
     title: Concept Art
     subtitle: >-
-      This is some of the work I did for the subject of concept art and
+      This is some of the works I did for the subject of concept art and
       character creation
     images:
       - type: ImageBlock
