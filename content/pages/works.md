@@ -9,9 +9,10 @@ sections:
     subtitle: >-
       A subtle collection of projects I've been working on after finishing my
       education
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: >+
+      A subtle collection of projects I've been working on after finishing my
+      education
+
     elementId: ''
     styles:
       self:
