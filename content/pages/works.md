@@ -29,7 +29,7 @@ sections:
       text:
         textAlign: left
   - type: RecentPostsSection
-    subtitle: Posts
+    subtitle: ''
     actions: []
     colors: colors-f
     variant: variant-d
