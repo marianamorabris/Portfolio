@@ -84,9 +84,9 @@ sections:
         justifyContent: flex-start
   - type: CtaSection
     title: My Artstation
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |+
+      Take a look at my artstation profile
+
     actions:
       - type: Button
         label: Try it now
