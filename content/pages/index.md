@@ -31,7 +31,7 @@ sections:
           - mr-0
         padding:
           - pt-36
-          - pb-16
+          - pb-5
           - pl-4
           - pr-4
         alignItems: center
@@ -71,6 +71,42 @@ sections:
         padding:
           - pt-10
           - pb-8
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: CtaSection
+    title: My Artstation
+    text: |+
+      Take a look at my artstation profile
+
+    actions:
+      - type: Button
+        label: My Artstation
+        altText: ''
+        url: 'https://www.artstation.com/mariana_mora'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-3
+          - pb-3
           - pl-4
           - pr-4
         alignItems: center
