@@ -6,7 +6,9 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Works
-    subtitle: The section subtitle
+    subtitle: >-
+      A subtle collection of projects I've been working on after finishing my
+      education
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
