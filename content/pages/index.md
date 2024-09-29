@@ -89,7 +89,7 @@ sections:
 
     actions:
       - type: Button
-        label: Try it now
+        label: My Artstation
         altText: ''
         url: 'https://www.artstation.com/mariana_mora'
         showIcon: true
