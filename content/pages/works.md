@@ -6,9 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Works
-    subtitle: >-
-      A subtle collection of projects I've been working on after finishing my
-      education
+    subtitle: my next big thing is...
     text: >+
       A subtle collection of projects I've been working on after finishing my
       education
