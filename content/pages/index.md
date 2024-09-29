@@ -134,7 +134,7 @@ sections:
     colors: colors-f
     variant: variant-c
     elementId: ''
-    recentCount: 3
+    recentCount: 1
     showDate: true
     showAuthor: false
     showExcerpt: true
