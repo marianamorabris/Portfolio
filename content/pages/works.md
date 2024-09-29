@@ -30,15 +30,7 @@ sections:
         textAlign: left
   - type: RecentPostsSection
     subtitle: Posts
-    actions:
-      - type: Link
-        label: See all posts
-        altText: See all posts
-        url: /blog
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
+    actions: []
     colors: colors-f
     variant: variant-d
     elementId: ''
