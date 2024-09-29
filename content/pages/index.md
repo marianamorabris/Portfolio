@@ -132,7 +132,7 @@ sections:
         iconPosition: right
         elementId: ''
     colors: colors-f
-    variant: variant-d
+    variant: variant-c
     elementId: ''
     recentCount: 3
     showDate: true
