@@ -91,7 +91,7 @@ sections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: 'https://www.artstation.com/mariana_mora'
         showIcon: true
         icon: arrowRight
         iconPosition: right
