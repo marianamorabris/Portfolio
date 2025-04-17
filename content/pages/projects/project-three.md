@@ -94,7 +94,7 @@ bottomSections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/imagen_2025-04-17_124205168.png
         altText: Image one
         caption: Image one caption
         elementId: ''
