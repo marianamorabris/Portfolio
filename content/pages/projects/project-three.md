@@ -36,7 +36,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/Tfp_megs-1.png
         altText: Color
-        caption: Image four caption
+        caption: Aplication of color over values
         elementId: ''
     colors: colors-f
     spacing: 16
