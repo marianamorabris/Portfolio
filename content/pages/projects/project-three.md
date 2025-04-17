@@ -99,7 +99,7 @@ bottomSections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/imagen_2025-04-17_124311663.png
         altText: Image two
         caption: Image two caption
         elementId: ''
