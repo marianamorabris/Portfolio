@@ -53,6 +53,41 @@ bottomSections:
       text:
         textAlign: left
   - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/Ocean_Queen_WOOW.gif
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/ZBrush Movie ajsdkas1.gif
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+    colors: colors-c
+    spacing: 16
+    columns: 2
+    aspectRatio: '1:1'
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: MediaGallerySection
     title: Early Process
     subtitle: Featuring; sketch and finished anatomic build
     images:
