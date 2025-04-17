@@ -165,7 +165,7 @@ bottomSections:
       subtitle:
         textAlign: center
   - type: MediaGallerySection
-    title: Gallery
+    title: B-127 TFONE Bumblebee
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
