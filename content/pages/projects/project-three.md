@@ -4,7 +4,7 @@ title: Transformers fan-illustrations
 colors: colors-a
 date: '2025-02-10'
 client: Robots in disguise!
-description: A small on-going fan collection of the franchise
+description: A small on-going collection
 featuredImage:
   type: ImageBlock
   url: /images/B-127_icon.png
