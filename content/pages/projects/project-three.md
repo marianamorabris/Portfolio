@@ -166,7 +166,7 @@ bottomSections:
         textAlign: center
   - type: MediaGallerySection
     title: B-127 TFONE Bumblebee
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
