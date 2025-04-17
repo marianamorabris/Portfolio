@@ -7,7 +7,7 @@ client: Robots in disguise!
 description: A small on-going collection
 featuredImage:
   type: ImageBlock
-  url: /images/bumbmheader.png
+  url: /images/00121.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
