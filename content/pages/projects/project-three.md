@@ -15,51 +15,6 @@ media:
   altText: Project image
 bottomSections:
   - type: MediaGallerySection
-    title: TFP Megatron
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/imagen_2025-04-17_123159377.png
-        altText: Sketch
-        caption: Rough line sketch
-        elementId: ''
-      - type: ImageBlock
-        url: /images/image.png
-        altText: Process
-        caption: Sketch + rough values
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Tfp_megs_w.png
-        altText: Values
-        caption: Finished values
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Tfp_megs-1.png
-        altText: Color
-        caption: Aplication of color over values
-        elementId: ''
-    colors: colors-f
-    spacing: 16
-    columns: 4
-    aspectRatio: '4:3'
-    showCaption: false
-    enableHover: true
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-  - type: MediaGallerySection
     title: ''
     subtitle: ''
     images:
@@ -154,6 +109,51 @@ bottomSections:
       self:
         height: auto
         width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: MediaGallerySection
+    title: TFP Megatron
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/imagen_2025-04-17_123159377.png
+        altText: Sketch
+        caption: Rough line sketch
+        elementId: ''
+      - type: ImageBlock
+        url: /images/image.png
+        altText: Process
+        caption: Sketch + rough values
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Tfp_megs_w.png
+        altText: Values
+        caption: Finished values
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Tfp_megs-1.png
+        altText: Color
+        caption: Aplication of color over values
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
         padding:
           - pt-12
           - pb-12
