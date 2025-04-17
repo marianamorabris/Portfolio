@@ -136,7 +136,7 @@ bottomSections:
         textAlign: center
   - type: MediaGallerySection
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/Megatron_sketch_2.png
