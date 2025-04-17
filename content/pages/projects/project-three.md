@@ -20,7 +20,7 @@ bottomSections:
     images:
       - type: ImageBlock
         url: /images/imagen_2025-04-17_123159377.png
-        altText: Image one
+        altText: Rough line
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
