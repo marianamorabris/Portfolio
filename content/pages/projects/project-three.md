@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Transformers fan-illustrations collection
 colors: colors-a
-date: '2024-09-28'
+date: '2025-01-28'
 client: Robots in disguise!
 description: I'm currently working on a personal project! It is a work in progress still.
 featuredImage:
