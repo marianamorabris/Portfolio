@@ -220,7 +220,7 @@ bottomSections:
         elementId: ''
     colors: colors-c
     spacing: 16
-    columns: 2
+    columns: 1
     aspectRatio: '3:2'
     showCaption: false
     enableHover: false
