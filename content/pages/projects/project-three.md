@@ -4,7 +4,9 @@ title: Transformers fan-illustrations collection
 colors: colors-a
 date: '2025-02-10'
 client: Robots in disguise!
-description: I'm currently working on a personal project! It is a work in progress still.
+description: >-
+  Here are a few fan-illustrations I've made of some of the characters of the
+  Transformers franchise, focusing on TFONE style.
 featuredImage:
   type: ImageBlock
   url: /images/dfqaf.png
