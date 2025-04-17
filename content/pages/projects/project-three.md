@@ -25,7 +25,7 @@ bottomSections:
         elementId: ''
       - type: ImageBlock
         url: /images/image.png
-        altText: Image two
+        altText: Process
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
