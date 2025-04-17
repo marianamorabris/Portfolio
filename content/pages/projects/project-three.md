@@ -21,7 +21,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/imagen_2025-04-17_123159377.png
         altText: Rough line
-        caption: Image one caption
+        caption: Rough line sketch
         elementId: ''
       - type: ImageBlock
         url: /images/image.png
