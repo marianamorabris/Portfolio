@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Transformers fan-illustrations '
+title: Transformers fan-Illustrations
 colors: colors-a
 date: '2024-09-28'
 client: Robots in disguise!
