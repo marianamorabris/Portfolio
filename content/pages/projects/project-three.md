@@ -15,7 +15,7 @@ media:
   altText: Project image
 bottomSections:
   - type: MediaGallerySection
-    title: Gallery
+    title: TFP Megatron
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
