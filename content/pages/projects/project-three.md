@@ -9,7 +9,7 @@ description: >-
   Transformers franchise, focusing on TFONE style.
 featuredImage:
   type: ImageBlock
-  url: /images/dfqaf.png
+  url: /images/B-127_icon.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
