@@ -35,7 +35,7 @@ bottomSections:
         elementId: ''
       - type: ImageBlock
         url: /images/Tfp_megs-1.png
-        altText: Image four
+        altText: Color
         caption: Image four caption
         elementId: ''
     colors: colors-f
