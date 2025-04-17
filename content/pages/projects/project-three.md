@@ -26,7 +26,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/image.png
         altText: Process
-        caption: Image two caption
+        caption: Sketch + rough values
         elementId: ''
       - type: ImageBlock
         url: /images/Tfp_megs_w.png
