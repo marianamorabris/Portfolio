@@ -31,7 +31,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/Tfp_megs_w.png
         altText: Values
-        caption: Image three caption
+        caption: Finished values
         elementId: ''
       - type: ImageBlock
         url: /images/Tfp_megs-1.png
