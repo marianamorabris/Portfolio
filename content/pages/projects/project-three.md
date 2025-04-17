@@ -16,7 +16,7 @@ media:
 bottomSections:
   - type: MediaGallerySection
     title: TFP Megatron
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
