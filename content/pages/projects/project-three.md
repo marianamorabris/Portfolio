@@ -90,36 +90,6 @@ bottomSections:
       subtitle:
         textAlign: center
   - type: MediaGallerySection
-    title: ''
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/Tfp_megs-1.png
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-    colors: colors-c
-    spacing: 4
-    columns: 1
-    aspectRatio: '1:1'
-    showCaption: false
-    enableHover: false
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-  - type: MediaGallerySection
     title: Knight Megatron (AU design by @lyrasmuse on X)
     subtitle: ''
     images:
@@ -229,6 +199,36 @@ bottomSections:
       self:
         height: auto
         width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/Tfp_megs-1.png
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-c
+    spacing: 4
+    columns: 1
+    aspectRatio: '1:1'
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
         padding:
           - pt-12
           - pb-12
