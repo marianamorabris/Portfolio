@@ -165,7 +165,7 @@ bottomSections:
       subtitle:
         textAlign: center
   - type: MediaGallerySection
-    title: ''
+    title: 'Knight Megatron (AU by '
     subtitle: ''
     images:
       - type: ImageBlock
