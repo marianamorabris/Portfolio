@@ -1,18 +1,313 @@
 ---
 type: ProjectLayout
-title: Future Project
+title: Transformers fan-illustrations collection
 colors: colors-a
-date: '2024-09-28'
-client: 'Wow, so excited!'
-description: I'm currently working on a personal project! It is a work in progress still.
+date: '2025-02-10'
+client: Robots in disguise!
+description: A small on-going collection
 featuredImage:
   type: ImageBlock
-  url: /images/dfqaf.png
+  url: /images/B-127_icon.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/dfqaf.png
+  url: /images/B-127.png
   altText: Project image
+bottomSections:
+  - type: MediaGallerySection
+    title: TFONE Megatron
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/imagen_2025-04-17_124205168.png
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/imagen_2025-04-17_124311663.png
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/imagen_2025-04-17_124132242.png
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Megatron_sketch_2.png
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/Megatron_sketch_2.png
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-c
+    spacing: 37
+    columns: 1
+    aspectRatio: '2:3'
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: MediaGallerySection
+    title: Knight Megatron (AU design by @lyrasmuse on X)
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/imagen_2025-04-17_124843633.png
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/imagen_2025-04-17_124759597.png
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/imagen_2025-04-17_124606393.png
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/knightmegatron_lyra.png
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/knightmegatron_lyra.png
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-c
+    spacing: 16
+    columns: 1
+    aspectRatio: '3:2'
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: MediaGallerySection
+    title: B-127 TFONE Bumblebee
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/imagen_2025-04-17_125656878.png
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/imagen_2025-04-17_125555156.png
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/B-127.png
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 3
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/B-127.png
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-c
+    spacing: 16
+    columns: 1
+    aspectRatio: '1:1'
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: MediaGallerySection
+    title: TFP Megatron
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/imagen_2025-04-17_123159377.png
+        altText: Sketch
+        caption: Rough line sketch
+        elementId: ''
+      - type: ImageBlock
+        url: /images/image.png
+        altText: Process
+        caption: Sketch + rough values
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Tfp_megs_w.png
+        altText: Values
+        caption: Finished values
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Tfp_megs-1.png
+        altText: Color
+        caption: Aplication of color over values
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/Tfp_megs-1.png
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-c
+    spacing: 4
+    columns: 1
+    aspectRatio: '1:1'
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. 
-
+Here are a few fan-illustrations I've made of some of the characters of the Transformers franchise, focusing on TFONE style.
