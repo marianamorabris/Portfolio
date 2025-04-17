@@ -166,7 +166,7 @@ bottomSections:
         textAlign: center
   - type: MediaGallerySection
     title: ''
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/imagen_2025-04-17_124843633.png
