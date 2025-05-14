@@ -25,7 +25,7 @@
                 "label": "Projects",
                 "altText": "",
                 "url": "/projects",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "apple",
                 "iconPosition": "right",
                 "elementId": ""
