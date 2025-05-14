@@ -51,7 +51,7 @@ sections:
     type: HeroSection
     media:
       type: ImageBlock
-      url: /images/Screenshot 2024-09-03 133147.png
+      url: /images/dc0ae367-6fda-4ef5-8b46-12c60670b009.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
