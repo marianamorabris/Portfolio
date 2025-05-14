@@ -12,8 +12,9 @@
                 "type": "Link",
                 "label": "Resume",
                 "url": "/info",
-                "showIcon": true,
-                "icon": ""
+                "showIcon": false,
+                "icon": "linkedin",
+                "iconPosition": "right"
             },
             {
                 "type": "Link",
@@ -25,8 +26,8 @@
                 "label": "Projects",
                 "altText": "",
                 "url": "/projects",
-                "showIcon": false,
-                "icon": "arrowRight",
+                "showIcon": true,
+                "icon": "chevronLeft",
                 "iconPosition": "right",
                 "elementId": ""
             }
