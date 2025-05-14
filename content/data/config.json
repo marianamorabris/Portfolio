@@ -14,7 +14,7 @@
                 "url": "/info",
                 "showIcon": true,
                 "icon": "linkedin",
-                "iconPosition": "left"
+                "iconPosition": "right"
             },
             {
                 "type": "Link",
