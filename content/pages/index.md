@@ -192,4 +192,5 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+socialImage: /images/Signature_MarianaArtist.png
 ---
