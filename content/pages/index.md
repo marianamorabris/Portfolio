@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: My Portfolio
+    title: Hello!
     subtitle: >-
       Welcome to my personal place! My work focuses on creating compelling
       characters, immersive environments, and detailed assets that elevate
