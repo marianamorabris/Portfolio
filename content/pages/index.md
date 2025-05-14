@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: My portfolio
+title: Portfolio of MB
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: My Portfolio
+    title: Hello!
     subtitle: >-
       Welcome to my personal place! My work focuses on creating compelling
       characters, immersive environments, and detailed assets that elevate
@@ -192,4 +192,5 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+socialImage: /images/Signature_MarianaArtist.png
 ---
