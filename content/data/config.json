@@ -26,7 +26,7 @@
                 "altText": "",
                 "url": "/projects",
                 "showIcon": true,
-                "icon": "arrowLeft",
+                "icon": "cart",
                 "iconPosition": "right",
                 "elementId": ""
             }
